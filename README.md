@@ -10,3 +10,10 @@ This repository is created to practice the GitHub workflow.
 - branches.
 - commits.
 - Open and merge Pull Requests.
+
+
+## What I Learned
+- How to create a repository.
+- How to create a branch.
+- How to commit changes.
+- How to use Pull Requests.
